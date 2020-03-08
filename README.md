@@ -1,5 +1,5 @@
 ## CircleCI status badge
-[![1xshaw](https://circleci.com/gh/1xshaw/project-microservice-udacity.svg?style=svg)](<LINK>)
+[![CircleCI](https://circleci.com/gh/1xshaw/project-microservice-udacity.svg?style=svg)](https://circleci.com/gh/1xshaw/project-microservice-udacity)
 
 
 ## Project Overview
